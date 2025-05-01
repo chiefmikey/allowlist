@@ -74,3 +74,13 @@ a1988.dscg1.akamai.net
 
 # Cloudflare CDN (JS/Libs)
 cdnjs.cloudflare.com
+
+# Tailscale
+log.tailscale.com
+
+# Apple iCloud (used for Private Relay, masking email, and syncing)
+mask.icloud.com
+mask-h2.icloud.com
+
+# Microsoft Application Insights (additional endpoint for VS Code/dev tools)
+stamp1-eastus.quickpulse.prod.applicationinsights.trafficmanager.net
