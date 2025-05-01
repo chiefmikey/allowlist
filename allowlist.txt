@@ -86,7 +86,11 @@ api.tailscale.com
 mask.icloud.com
 mask-h2.icloud.com
 
-# Microsoft Application Insights (additional endpoint for VS Code/dev tools)
+# Microsoft Telemetry / Extension Support (Copilot, VS Code, Azure)
 stamp1-eastus.quickpulse.prod.applicationinsights.trafficmanager.net
 default.exp-tas.com
-mobile.events.data.trafficanager.net
+vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+telecommand.telemetry.microsoft.com
+settings-win.data.microsoft.com
+mobile.events.data.trafficmanager.net
