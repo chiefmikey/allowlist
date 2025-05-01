@@ -1,0 +1,10 @@
+googlehomefoyer-pa.googleapis.com
+googleapis.com
+gstatic.com
+firebaseio.com
+uber.com
+uberinternal.com
+uberstatic.com
+segment.io
+app-measurement.com
+cloudfront.net
