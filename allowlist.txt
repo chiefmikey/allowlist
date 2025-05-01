@@ -1,10 +1,37 @@
+# Google Smart Home / Nest / Assistant
 googlehomefoyer-pa.googleapis.com
 googleapis.com
 gstatic.com
 firebaseio.com
+firebaseapp.com
+connectivitycheck.gstatic.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+mtalk.google.com
+captive.apple.com
+play.googleapis.com
+android.clients.google.com
+play-services.google.com
+time.google.com
+time1.google.com
+time2.google.com
+time3.google.com
+time4.google.com
+ota.googlezip.net
+dns.google
+cast.google.com
+castaudio-pa.googleapis.com
+castv2-client.google.com
+redirector.gvt1.com
+
+# Uber Eats (tracking/session/payment)
 uber.com
 uberinternal.com
 uberstatic.com
 segment.io
 app-measurement.com
 cloudfront.net
+
+# Dropbox
+d.dropbox.com
