@@ -1,16 +1,19 @@
-# Google Smart Home / Nest / Assistant
+# Google Smart Home / Nest
 googlehomefoyer-pa.googleapis.com
 googleapis.com
+play.googleapis.com
+nest-camera-media-upload.googleapis.com
 gstatic.com
+www.gstatic.com
 firebaseio.com
 firebaseapp.com
 connectivitycheck.gstatic.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
+clients.l.google.com
 mtalk.google.com
 captive.apple.com
-play.googleapis.com
 android.clients.google.com
 play-services.google.com
 time.google.com
@@ -19,13 +22,19 @@ time2.google.com
 time3.google.com
 time4.google.com
 ota.googlezip.net
+gvt2.com
+redirector.gvt2.com
+mobile-gtalk.l.google.com
+voice.google.com
+settings.crashlytics.com
 dns.google
+
+# Chromecast & Cast support
 cast.google.com
 castaudio-pa.googleapis.com
 castv2-client.google.com
-redirector.gvt1.com
 
-# Uber Eats (tracking/session/payment)
+# Uber Eats
 uber.com
 uberinternal.com
 uberstatic.com
