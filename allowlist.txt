@@ -76,7 +76,10 @@ a1988.dscg1.akamai.net
 cdnjs.cloudflare.com
 
 # Tailscale
+tailscale.com
 log.tailscale.com
+controlplane.tailscale.com
+login.tailscale.com
 
 # Apple iCloud (used for Private Relay, masking email, and syncing)
 mask.icloud.com
