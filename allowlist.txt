@@ -88,3 +88,5 @@ mask-h2.icloud.com
 
 # Microsoft Application Insights (additional endpoint for VS Code/dev tools)
 stamp1-eastus.quickpulse.prod.applicationinsights.trafficmanager.net
+default.exp-tas.com
+mobile.events.data.trafficanager.net
