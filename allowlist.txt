@@ -1,13 +1,15 @@
-# Google Smart Home / Nest / Assistant
+# Google Smart Home / Nest / Chromecast
 googlehomefoyer-pa.googleapis.com
 googleapis.com
 gstatic.com
+www.gstatic.com
 firebaseio.com
 firebaseapp.com
 connectivitycheck.gstatic.com
 clients3.google.com
 clients4.google.com
 clients5.google.com
+clients.l.google.com
 mtalk.google.com
 captive.apple.com
 play.googleapis.com
@@ -24,14 +26,51 @@ cast.google.com
 castaudio-pa.googleapis.com
 castv2-client.google.com
 redirector.gvt1.com
+gvt2.com
+mobile-gtalk.l.google.com
+voice.google.com
+settings.crashlytics.com
 
-# Uber Eats (tracking/session/payment)
+# Uber Eats
 uber.com
 uberinternal.com
 uberstatic.com
 segment.io
+api.segment.io
 app-measurement.com
 cloudfront.net
 
 # Dropbox
 d.dropbox.com
+client.dropbox.com
+client-env.dropbox-dns.com
+
+# GitHub Copilot & Developer Telemetry
+telemetry.business.githubcopilot.com
+api.business.githubcopilot.com
+copilot-telemetry.githubusercontent.com
+mobile-collector.newrelic.com
+browser-intake-datadoghq.com
+
+# GitHub Container Registry
+ghcr.io
+
+# Microsoft Telemetry / Diagnostics
+westus-0.in.applicationinsights.azure.com
+eastus-8.in.applicationinsights.azure.com
+eastus.livediagnostics.monitor.azure.com
+mobile.events.data.microsoft.com
+
+# Apple Telemetry & Time Services (Optional but Safe)
+cf.iadsdk.apple.com
+partiality.itunes.apple.com
+time.g.aaplimg.com
+
+# Brave Rewards Ads (Optional)
+anonymous.ads.brave.com
+
+# Akamai CDN (Updates & App Support)
+a1988.dscg1.akamai.net
+
+# Cloudflare CDN (JS/Libs)
+cdnjs.cloudflare.com
