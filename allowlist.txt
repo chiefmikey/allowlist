@@ -94,3 +94,16 @@ vortex-win.data.microsoft.com
 telecommand.telemetry.microsoft.com
 settings-win.data.microsoft.com
 mobile.events.data.trafficmanager.net
+
+# Brave
+static.ads.brave.com
+geo.ads.brave.com
+mywallet.ads.brave.com
+variations.brave.com
+usage-ping.brave.com
+
+# Other
+http-inputs-notion.splunkcloud.com
+nanit-raw-videos-analytics.s3.amazonaws.com
+dl-debug.dropbox.com
+sdk.split.io
