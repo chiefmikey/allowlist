@@ -111,3 +111,4 @@ http-inputs-notion.splunkcloud.com
 nanit-raw-videos-analytics.s3.amazonaws.com
 dl-debug.dropbox.com
 sdk.split.io
+square.site
