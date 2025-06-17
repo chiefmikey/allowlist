@@ -112,3 +112,4 @@ nanit-raw-videos-analytics.s3.amazonaws.com
 dl-debug.dropbox.com
 sdk.split.io
 square.site
+logs.us-east-1.amazonaws.com
